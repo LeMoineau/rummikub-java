@@ -1,0 +1,9 @@
+09b,10b,11b & 01b,02b,03b
+02b,05b,11r
+12r,13r,13b,12b,11b
+02r,02b
+
+1->familys
+2->ordi
+3->hand
+4->pioche

@@ -1,0 +1,5 @@
+09b,10b,11b & 01b,02b,03b
+02b,05b,11r
+12r,13r,13b,12b,11b
+
+maybe crypted
