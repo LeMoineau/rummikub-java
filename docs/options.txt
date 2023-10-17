@@ -1,0 +1,4 @@
+name: pierrot
+ordi: adversaire
+port: 8900
+load: false
